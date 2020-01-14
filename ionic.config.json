@@ -1,0 +1,7 @@
+{
+  "name": "MP3_interface",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
